@@ -1,4 +1,4 @@
-# 1° Desafio (ToDo List de tarefas) :scroll:
+# 1° Desafio (To-do List) :scroll:
 ## Trilha React - Ignite Rocketseat :purple_heart: 
 
   #### Clone o repositório <br>
